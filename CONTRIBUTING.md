@@ -57,7 +57,7 @@ To ensure all your commits are signed, you may choose to [configure git](https:/
 
 ## Keeping in sync with the Augur Repository
 
-Remeber to sync your fork with the main branch regularly.
+Remember to sync your fork with the main branch regularly.
 To do this:
 
 Go to github and copy the url of the main Augur repo
